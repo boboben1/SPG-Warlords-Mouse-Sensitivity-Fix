@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPGNoMouseChange", "SPGNoMouseChange\SPGNoMouseChange.vcxproj", "{E0E3550C-99CB-418D-B536-B213C78822B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPGNoMouseChangeDLL", "SPGNoMouseChangeDLL\SPGNoMouseChangeDLL.vcxproj", "{FB707C25-F2FE-487F-8487-CBD2A8758CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Debug|x64.ActiveCfg = Debug|x64
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Debug|x64.Build.0 = Debug|x64
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Debug|x86.Build.0 = Debug|Win32
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Release|x64.ActiveCfg = Release|x64
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Release|x64.Build.0 = Release|x64
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Release|x86.ActiveCfg = Release|Win32
+		{E0E3550C-99CB-418D-B536-B213C78822B0}.Release|x86.Build.0 = Release|Win32
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Debug|x64.ActiveCfg = Debug|x64
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Debug|x64.Build.0 = Debug|x64
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Debug|x86.Build.0 = Debug|Win32
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Release|x64.ActiveCfg = Release|x64
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Release|x64.Build.0 = Release|x64
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Release|x86.ActiveCfg = Release|Win32
+		{FB707C25-F2FE-487F-8487-CBD2A8758CED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
